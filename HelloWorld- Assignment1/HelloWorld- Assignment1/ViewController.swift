@@ -16,5 +16,8 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func ClickMeAction(_ sender: UIButton) {
+        print("Hello World")
+    }
 }
 
